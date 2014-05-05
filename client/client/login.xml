@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UniCa>
+	<AuthReq>
+		<productSpec>1</productSpec>
+        <account>186</account>
+		<password>1</password>
+		<loginType>2</loginType>
+		<clientType>10</clientType>
+		<phoneType>1234</phoneType>
+		<version>1</version>
+	</AuthReq>
+</UniCa>
