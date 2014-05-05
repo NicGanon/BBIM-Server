@@ -1,0 +1,6 @@
+hi, this program is an IM based tcp protocol.
+
+And, it is written by C++. I used socket api instead of any network library in the 1.0.0 version. I used multiThread.
+
+
+I will rewrite this program with Muduo network library in the next version.
