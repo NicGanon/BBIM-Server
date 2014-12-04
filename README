@@ -1,6 +1,14 @@
-hi, this program is an IM based tcp protocol.
+this program is an IM server which written by C++.
 
-And, it is written by C++. I used socket api instead of any network library in the 1.0.0 version. I used multiThread.
+the version now is pre-alpha used raw socket api and multiThread of windows.
 
 
-I will rewrite this program with Muduo network library in the next version.
+
+I am writting the alpha version for Linux instead windows.
+In the new version , the raw socket api will be instead of Muduo network library , and I will use memecached and mySql,
+and epoll will instead multiThread.
+
+the code of new version is testing now, will be pushed a coulpe week later. 
+
+
+
